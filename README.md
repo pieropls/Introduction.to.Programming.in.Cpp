@@ -1,7 +1,5 @@
 # Introduction to Programming in C++
 
----
-
 This repository contains my C++ programming exercises from the Coursera course [**Initiation à la Programmation en C++**](https://www.coursera.org/learn/initiation-programmation-cpp), offered by EPFL (École Polytechnique Fédérale de Lausanne).  
 
 The purpose of this repository is to **showcase my progress** in learning C++ through structured exercises, covering essential programming concepts such as **variables, control structures, loops, functions, and object-oriented programming**.  
