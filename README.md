@@ -24,3 +24,9 @@ This module focuses on **decision-making in C++**, including:
 - Using `if`, `else`, and `else if` statements.  
 - Boolean expressions, logical operators, and their common pitfalls.  
 - Structuring conditional logic to handle various cases.   
+
+### ✅ [Module 3](Module3): Control Structures (2) - Loops and Iterations  
+This module introduces **loops** to handle repetitive tasks efficiently, covering:  
+- `while`, `do-while`, and `for` loops.  
+- Condition-controlled and counter-controlled loops.  
+- Best practices for writing clean and efficient loops.  
